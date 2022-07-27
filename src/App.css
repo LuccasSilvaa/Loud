@@ -6,13 +6,13 @@
 }
 
 .logo{
-  margin-top: 2rem;
-  width: 6rem;
-  
+  padding-bottom: 7rem;
+  margin-top: 12rem;
+  width: 8rem; 
 }
 
 .body{
-  height: 32.2rem;
+  height: 56.3rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -29,6 +29,7 @@
 
 .cards{
   color: #12FF01;
+  height: 20rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -44,7 +45,8 @@
 }
 
 .cards button{
-  width: 3rem;
+  width: 4rem;
+  height: 2rem;
   cursor: crosshair;
   background-color: #12FF01;
 }
@@ -57,6 +59,6 @@
 
 .info img{
 
-  width:120px;
-  height:120px;
+  width:13.5rem;
+  height:13rem;
 }
